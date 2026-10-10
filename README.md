@@ -25,5 +25,5 @@ Le simulateur intègre également une ligne d'alerte pour le **seuil de sécurit
 
 1. **Cloner le dépôt :**
 
-   git clone [https://github.com/TON_NOM_UTILISATEUR/food-microbiology-predictor.git](https://github.com/TON_NOM_UTILISATEUR/food-microbiology-predictor.git)
-   cd food-microbiology-predictor
+git clone https://github.com/maram-bahrouni/le-food-microbiology-predictor.git
+cd le-food-microbiology-predictor
