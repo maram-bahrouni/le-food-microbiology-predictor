@@ -23,7 +23,7 @@ Le simulateur intègre également une ligne d'alerte pour le **seuil de sécurit
 
 ---
 
-## 🚀 Installation et Exécution Locale
+##  Installation et Exécution Locale
 
 1. **Cloner le dépôt :**
 ```bash
