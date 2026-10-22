@@ -4,7 +4,7 @@ An interactive web application developed in Python to model microbial growth kin
 
 ---
 
-## 📌 Project Description
+## Project Description
 This application allows microbiologists and food safety researchers to predict bacterial growth based on several key parameters:
 - **$N_0$** : Initial bacterial population ($\log_{10} \text{CFU/g}$)
 - **$N_{\max}$** : Maximum population reached
@@ -15,7 +15,7 @@ The simulator also includes an alert line for the **microbiological safety thres
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python 3.10+**
 - **Streamlit** : Interactive user interface
 - **NumPy** : Mathematical calculations
@@ -23,7 +23,7 @@ The simulator also includes an alert line for the **microbiological safety thres
 
 ---
 
-## 🚀 Installation and Local Execution
+##  Installation and Local Execution
 
 1. **Clone the repository:**
 ```bash
