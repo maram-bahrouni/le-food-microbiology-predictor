@@ -1,31 +1,31 @@
 # 🧫 Predictive Food Microbiology Simulator
 
-Un utilisateur interactif développé en Python pour modéliser la cinétique de croissance microbienne dans les aliments à l'aide du **modèle de Gompertz**.
+An interactive web application developed in Python to model microbial growth kinetics in food using the **Gompertz model**.
 
 ---
 
-## 📌 Description du Projet
-Cette application permet aux microbiologistes et chercheurs en sécurité alimentaire de prédire la croissance bactérienne en fonction de plusieurs paramètres clés :
-- **$N_0$** : Population bactérienne initiale ($\log_{10} \text{CFU/g}$)
-- **$N_{\max}$** : Population maximale atteinte
-- **$\mu_{\max}$** : Taux de croissance spécifique maximal ($\text{h}^{-1}$)
-- **$\lambda$** : Phase de latence ($\text{heures}$)
+## 📌 Project Description
+This application allows microbiologists and food safety researchers to predict bacterial growth based on several key parameters:
+- **$N_0$** : Initial bacterial population ($\log_{10} \text{CFU/g}$)
+- **$N_{\max}$** : Maximum population reached
+- **$\mu_{\max}$** : Maximum specific growth rate ($\text{h}^{-1}$)
+- **$\lambda$** : Lag phase ($\text{hours}$)
 
-Le simulateur intègre également une ligne d'alerte pour le **seuil de sécurité microbiologique** ($6 \log_{10} \text{CFU/g}$).
+The simulator also includes an alert line for the **microbiological safety threshold** ($6 \log_{10} \text{CFU/g}$).
 
 ---
 
-## 🛠️ Technologies Utilisées
+## 🛠️ Technologies Used
 - **Python 3.10+**
-- **Streamlit** : Interface utilisateur interactive
-- **NumPy** : Calculs mathématiques
-- **Matplotlib** : Génération de la courbe de croissance
+- **Streamlit** : Interactive user interface
+- **NumPy** : Mathematical calculations
+- **Matplotlib** : Growth curve generation
 
 ---
 
-##  Installation et Exécution Locale
+## 🚀 Installation and Local Execution
 
-1. **Cloner le dépôt :**
+1. **Clone the repository:**
 ```bash
-git clone https://github.com/maram-bahrouni/le-food-microbiology-predictor.git
+git clone [https://github.com/maram-bahrouni/le-food-microbiology-predictor.git](https://github.com/maram-bahrouni/le-food-microbiology-predictor.git)
 cd le-food-microbiology-predictor
